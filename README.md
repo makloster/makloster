@@ -1,7 +1,5 @@
 ## Welcome to my GitHub profile 👋
 
-<h3 align="center">A Backend developer from Argentina to the 🌎</h3>
-
 - 🎓 I'm a student at the UTN in Argentina.
 - 🌱 I'm currently learning Python and Java.
 - ⚡ Fun fact: I really like stories and I studied literature before starting my career on programming!
