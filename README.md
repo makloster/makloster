@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile 👋
 
 - 🎓 I'm a student at the UTN in Argentina.
-- 🌱 I'm currently learning Python and Java.
+- 🌱 I'm currently learning Python.
 - ⚡ Fun fact: I really like stories and I studied literature before starting my career on programming!
 
 <br>
